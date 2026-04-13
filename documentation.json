@@ -1,5 +1,4 @@
 {
-  "name": "Starter Kit",
   "colors": {
     "light": {
       "brand": "#F97316"
@@ -150,5 +149,7 @@
         ]
       }
     ]
-  }
+  },
+  "title": "Orbex Studio",
+  "name": "Orbex Studio"
 }
