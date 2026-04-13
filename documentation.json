@@ -21,6 +21,11 @@
             "path": "welcome-to-orbex-studio",
             "icon": "book-marked-icon",
             "ask-feedback": false
+          },
+          {
+            "title": "What is BotForge?",
+            "path": "what-is-botforge",
+            "icon": "badge-question-mark"
           }
         ]
       }
