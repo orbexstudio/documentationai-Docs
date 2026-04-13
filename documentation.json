@@ -19,7 +19,8 @@
           {
             "title": "Welcome to Orbex Studio",
             "path": "welcome-to-orbex-studio",
-            "icon": "book-marked-icon"
+            "icon": "book-marked-icon",
+            "ask-feedback": false
           }
         ]
       }
