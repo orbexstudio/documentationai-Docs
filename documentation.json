@@ -1,10 +1,14 @@
 {
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#3b82f6",
+      "heading": "#1a1a1a",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#76a8f9",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
@@ -152,5 +156,5 @@
   },
   "title": "Orbex Studio",
   "name": "Orbex Studio",
-  "template": "atlas"
+  "template": "classic"
 }
