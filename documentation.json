@@ -37,10 +37,7 @@
   "ai": {
     "page-actions": [
       "copy",
-      "claude",
-      "chatgpt",
-      "perplexity",
-      "grok"
+      "claude"
     ]
   },
   "favicon": "https://blob-cdn.documentation.ai/org-6f29c8b7-3a88-40fe-8c06-75ce0fceebcd/doc-3ddda304-7e9c-420e-b208-43d8c2c7994e/1776175397100-6xpaaapifrl-Logo.png?fm=auto&auto=compress%2Cformat"
