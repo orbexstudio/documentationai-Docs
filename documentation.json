@@ -23,6 +23,11 @@
             "ask-feedback": false
           },
           {
+            "title": "Payment & Refund Policy",
+            "path": "payment-refund-policy",
+            "icon": "lucide-scroll-text"
+          },
+          {
             "title": "What is BotForge?",
             "path": "what-is-botforge",
             "icon": "badge-question-mark"
