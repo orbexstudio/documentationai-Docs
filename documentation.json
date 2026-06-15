@@ -1,12 +1,12 @@
 {
   "colors": {
     "light": {
-      "brand": "#3b82f6",
+      "brand": "#f26430",
       "heading": "#1a1a1a",
       "text": "#374151"
     },
     "dark": {
-      "brand": "#76a8f9",
+      "brand": "#ea7e57",
       "heading": "#f2f2f2",
       "text": "#c1c1c1"
     }
@@ -45,7 +45,7 @@
       "claude"
     ]
   },
-  "favicon": "https://blob-cdn.documentation.ai/org-6f29c8b7-3a88-40fe-8c06-75ce0fceebcd/doc-3ddda304-7e9c-420e-b208-43d8c2c7994e/1776175397100-6xpaaapifrl-Logo.png?fm=auto&auto=compress%2Cformat",
+  "favicon": "https://blob-cdn.documentation.ai/org-6f29c8b7-3a88-40fe-8c06-75ce0fceebcd/doc-3ddda304-7e9c-420e-b208-43d8c2c7994e/1781521728649-kqliryk44u9-Shape.png?fm=auto&auto=compress%2Cformat",
   "navbar": {
     "actions": {
       "links": [
