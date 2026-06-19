@@ -36,6 +36,11 @@
             "title": "What is BotForge?",
             "path": "what-is-botforge",
             "icon": "badge-question-mark"
+          },
+          {
+            "title": "Services & pricing",
+            "path": "services",
+            "icon": "clipboard-icon"
           }
         ]
       }
