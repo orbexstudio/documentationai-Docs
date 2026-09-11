@@ -38,11 +38,6 @@
             "icon": "badge-question-mark"
           },
           {
-            "title": "Services & pricing",
-            "path": "services",
-            "icon": "clipboard-icon"
-          },
-          {
             "title": "Faq",
             "path": "faq",
             "icon": "badge-question-mark"
